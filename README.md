@@ -1,6 +1,6 @@
 # juniormiageconceptnice.github.io
 
-<img src="./img/planning-formations.jpg"></img>
+<img src="./img/planning-formations.jpg">
 
 ```
                              _______. __                              
